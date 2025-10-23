@@ -1,0 +1,5 @@
+pandas==2.2.1
+DataRecorder==3.4.12
+DrissionPage==4.1.0.12
+loguru==0.7.3
+tqdm==4.66.2
